@@ -1,4 +1,4 @@
-# Wheelie-Sensor-Data-collector
+# Wheelie-Sensor-Data-collector iOS
 
 Used to collect sensor data for Wheelie BMX rides
 
